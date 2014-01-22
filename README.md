@@ -1,4 +1,2 @@
-SmallServer
-===========
-
-The smallest World web server ever !
+How to start :
+java -jar SS.jar /<Path to http root folder>/ 
