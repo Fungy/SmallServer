@@ -1,2 +1,2 @@
 How to start :
-java -jar SS.jar /<Path to http root folder>/ 
+java -jar SS.jar <Path to http root folder>
